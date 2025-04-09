@@ -39,7 +39,6 @@ A no-code platform for building custom AI agents with a drag and drop interface.
 
 - Next.js
 - React
-- ReactFlow (for the drag and drop interface)
 - TypeScript
 - Tailwind CSS
 
